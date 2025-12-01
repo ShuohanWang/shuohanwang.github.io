@@ -2,7 +2,7 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-academia_edu:  https://www.sdstate.edu/directory/shuohan-wang
+#  academia_edu:  https://www.sdstate.edu/directory/shuohan-wang
 #  organization: princeton # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
@@ -26,7 +26,7 @@ github_username: shuohanwang # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+linkedin_username: shuohanwang # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
