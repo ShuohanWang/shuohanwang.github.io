@@ -497,13 +497,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-academia_edu',
-        title: 'Academia_edu',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
@@ -523,6 +516,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/shuohanwang", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/shuohanwang", "_blank");
         },
       },{
       id: 'light-theme',
